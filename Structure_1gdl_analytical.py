@@ -1,6 +1,6 @@
 
 """
-Solução analítica e numérica
+Solução analítica 
 Sistema 1GdL - Estrutura Principal
 Autor: Marcos Wilson Rodrigues de Lima 
 """
